@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48793320-eb1a-4a6f-af97-f9f2fd76fe65" name="Changes" comment="Начало проекта">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="48793320-eb1a-4a6f-af97-f9f2fd76fe65" name="Changes" comment="Создание конфликта">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -60,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681748202091</updated>
-      <workItem from="1681748203370" duration="3143000" />
+      <workItem from="1681748203370" duration="4224000" />
     </task>
     <task id="LOCAL-00001" summary="Начало проекта">
       <created>1681748247826</created>
@@ -69,14 +72,41 @@
       <option name="project" value="LOCAL" />
       <updated>1681748247826</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Шпора по гиту">
+      <created>1681751603565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681751603565</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Создание конфликта">
+      <created>1681752508555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681752508555</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Начало проекта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начало проекта" />
+    <MESSAGE value="Шпора по гиту" />
+    <MESSAGE value="Создание конфликта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание конфликта" />
   </component>
 </project>
