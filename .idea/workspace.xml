@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48793320-eb1a-4a6f-af97-f9f2fd76fe65" name="Changes" comment="Создание конфликта">
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="48793320-eb1a-4a6f-af97-f9f2fd76fe65" name="Changes" comment="Создание блока с командами">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681752508555</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Создание блока с командами">
+      <created>1681754232797</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681754232797</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +114,7 @@
     <MESSAGE value="Начало проекта" />
     <MESSAGE value="Шпора по гиту" />
     <MESSAGE value="Создание конфликта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание конфликта" />
+    <MESSAGE value="Создание блока с командами" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание блока с командами" />
   </component>
 </project>
